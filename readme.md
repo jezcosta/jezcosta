@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/jezcosta/jezcosta/main/wave.gif" width="30px">
 
-My name is Jessica Costa and I'm a software engineer consultant. I'm from Brazil and currently working at [Avanade](https://www.avanade.com/).
+My name is Jessica Costa and I'm a software engineer consultant. I'm from Brazil and currently working at [Avanade](https://www.avanade.com/). Currently my focus is mobile development with React Native 💙
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-costa/)](https://www.linkedin.com/in/jessica-costa/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jezcosta/)](https://instagram.com/jezcosta)
