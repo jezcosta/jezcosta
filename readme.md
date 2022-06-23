@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/jezcosta/jezcosta/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/jezcosta/jezcosta/main/wave.gif" width="30">
 
 My name is Jessica Costa and I'm a software engineer consultant. I'm from Brazil and currently working at [Avanade](https://www.avanade.com/). Currently my focus is mobile development with React Native 💙
 
