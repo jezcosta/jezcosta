@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/jezcosta/jezcosta/main/wave.gif" width="30">
 
-My name is Jessica Costa and I'm a software engineer consultant. I'm from Brazil and currently working at [Avanade](https://www.avanade.com/). Currently my focus is mobile development with React Native 💙
+My name is Jessica Costa and I'm a software engineer manager. I'm from Brazil and currently working at [Avanade](https://www.avanade.com/). Currently my focus is mobile development 💙
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-costa/)](https://www.linkedin.com/in/jessica-costa/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jezcosta/)](https://instagram.com/jezcosta)
@@ -10,6 +10,7 @@ My name is Jessica Costa and I'm a software engineer consultant. I'm from Brazil
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/-IOS-black?logo=apple&style=flat-square&logo=react&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=white" />
@@ -34,15 +35,6 @@ My name is Jessica Costa and I'm a software engineer consultant. I'm from Brazil
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="Magento" src="https://img.shields.io/badge/-Magento-EE672F?style=flat-square&logo=Magento&logoColor=white" />
 </p>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezcosta&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jezcosta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 &nbsp;
 
