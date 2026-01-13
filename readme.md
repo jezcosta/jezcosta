@@ -10,7 +10,7 @@ My name is Jessica Costa and I'm a software engineer manager. I'm from Brazil an
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="iOS" src="https://img.shields.io/badge/-IOS-black?logo=apple&style=flat-square&logo=react&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/-IOS-black?logo=apple&style=flat-square&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=white" />
