@@ -1,4 +1,4 @@
-# Hi, I'm Jéssica Costa 👋
+# Hi, I'm Jéssica Costa <img src="https://raw.githubusercontent.com/jezcosta/jezcosta/main/wave.gif" width="30">
 
 ### Tech Lead | Mobile (React Native & iOS) | Web (React & Angular)
 
